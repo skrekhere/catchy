@@ -1,0 +1,5 @@
+
+[General]
+	#Blacklist any mobs from being captured by Big Jar.
+	blacklist = ["minecraft:player"]
+

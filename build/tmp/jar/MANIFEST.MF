@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: catchy
+Specification-Vendor: catchyskrek
+Specification-Version: 1
+Implementation-Title: catchy
+Implementation-Version: 1.0
+Implementation-Vendor: catchyskrek
+Implementation-Timestamp: 2021-07-22T09:42:35-0700
+

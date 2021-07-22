@@ -1,0 +1,8 @@
+dev/shrek/catchy/item/ItemBigJar.java
+ dev.shrek.catchy.item.ItemBigJar
+dev/shrek/catchy/config/ModConf.java
+ dev.shrek.catchy.config.ModConf
+ dev.shrek.catchy.config.ModConf$General
+dev/shrek/catchy/ExampleMod.java
+ dev.shrek.catchy.ExampleMod
+ dev.shrek.catchy.ExampleMod$RegistryEvents

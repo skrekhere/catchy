@@ -1,0 +1,5 @@
+Args: "--inJar", "/home/skrek/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.1.65/forge-1.16.5-36.1.65-injected.jar", "--outJar", "/home/skrek/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.1.65_mapped_official_1.16.5/forge-1.16.5-36.1.65_mapped_official_1.16.5.jar", "--logFile", "accesstransform.log", "--atFile", "/home/skrek/Projects/catchy/build/_atJar_5/parent_at.cfg"
+Classpath: /home/skrek/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/1.0.5/accesstransformers-1.0.5-fatjar.jar
+WorkDir: /home/skrek/Projects/catchy/build/_atJar_5
+Main: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
